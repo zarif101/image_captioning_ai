@@ -30,6 +30,6 @@ def main():
             pic = cv2.resize(pic,(224,224))
             st.image(pic)
             st.header(caption_img(pic))
-            st.write('To try another picture, select a different photo!')
+            st.write('To try another picture, press the x and select a different photo!')
 if __name__=='__main__':
     main()
