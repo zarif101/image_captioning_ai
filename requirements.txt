@@ -1,7 +1,7 @@
-h5py==2.10.0
+numpy==1.18.5
+opencv-python==4.4.0.46
 pandas==1.1.4
 Pillow==8.0.1
-requests==2.24.0
 scipy==1.4.1
 streamlit==0.70.0
 tensorflow==2.3.0
